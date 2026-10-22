@@ -9,6 +9,6 @@ $nom = getenv('NOM') ?: 'inconnu';
     <title>Bienvenue</title>
 </head>
 <body>
-    <h1>Bienvenue sur le repo récupéré sur GitHub et déployé chez <?= htmlspecialchars($nom, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8') ?></h1>
+    <h1>Récupéré sur GitHub et déployé chez <?= htmlspecialchars($nom, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8') ?></h1>
 </body>
 </html>
