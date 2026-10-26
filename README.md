@@ -12,17 +12,17 @@ Déployer une même application PHP en local avec **XAMP**, puis avec **Docker**
 2. Créez un fichier `.env` à partir du fichier `.env.example`.
 3. Renseignez **votre nom** dans le fichier `.env`.
 
-### 2. Déploiement avec XAMP
+### 2. Déploiement avec Docker
 
-1. Déployez le projet en local à l'aide de **XAMP**.
-2. Vérifiez que l'application fonctionne dans votre navigateur. PS: si vous voyez "...inconnu" dans WAMP ou MAMP, c'est normal.
-3. Réalisez une **capture d'écran** montrant le résultat obtenu.
-
-### 3. Déploiement avec Docker
-
-1. Déployez le même projet en local à l'aide de **Docker**.
+1. Déployez le projet en local à l'aide de **Docker**.
 2. Vérifiez que l'application fonctionne dans votre navigateur.
-3. Réalisez une **capture d'écran** montrant le résultat obtenu.
+3. Réalisez une **capture d'écran** de votre écran complet, montrant le résultat obtenu.
+
+### 3. Déploiement avec XAMP
+
+1. Déployez le même projet en local à l'aide de **XAMP**.
+2. Vérifiez que l'application fonctionne dans votre navigateur. PS: si vous voyez "...inconnu" dans WAMP ou MAMP, c'est normal.
+3. Réalisez une **capture d'écran** de votre écran complet, montrant le résultat obtenu.
 
 ## Travail à rendre
 
