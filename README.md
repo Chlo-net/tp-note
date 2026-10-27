@@ -24,9 +24,13 @@ Déployer une même application PHP en local avec **XAMP**, puis avec **Docker**
 2. Vérifiez que l'application fonctionne dans votre navigateur. PS: si vous voyez "...inconnu" dans WAMP ou MAMP, c'est normal.
 3. Réalisez une **capture d'écran** de votre écran complet, montrant le résultat obtenu.
 
+### 4. Dépôt sur GIThub
+1. Mettre le projet à jour avec vos éventuelles modifications.
+2. Déposer le projet à jour sur votre espace GitHub
+
 ## Travail à rendre
 
-Envoyez **les deux captures d'écran** par e-mail à :
+Envoyez **les deux captures d'écran** et le **lien vers votre repo GitHub** par e-mail à :
 
 **thibault.vinchent@mail-formateur.net**
 
